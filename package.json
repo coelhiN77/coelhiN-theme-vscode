@@ -1,0 +1,36 @@
+{
+  "name": "coelhiN-theme",
+  "displayName": "coelhiN Theme",
+  "description": "Improve your productivity and enjoy an enhanced experience with a personalized theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "publisher": "coelhiN",
+  "repository": "https://github.com/coelhiN77/coelhiN-theme-vscode",
+  "icon": "assets/iconTheme.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "smooth",
+    "coelhiN"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coelhiN-smooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coelhiN-theme-color-theme.json"
+      },
+      {
+        "label": "coelhiN-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coelhiN-theme-dark-theme.json"
+      }
+    ]
+  }
+}
