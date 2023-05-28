@@ -8,9 +8,11 @@ Boost your productivity and level up your coding experience with a theme that re
 **◦ coelhiN Smooth**
 ![coelhiN Smooth Theme](assets/screenshot1.png)
 
-
 **◦ coelhiN Dark**
 ![coelhiN Dark Theme](assets/screenshot2.png)
+
+**◦ coelhiN Violet**
+![coelhiN Violet Theme](assets/screenshot3.png)
 
 
 ## 🚀 Installation Theme

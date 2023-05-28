@@ -16,8 +16,10 @@
     "vscode",
     "theme",
     "dark",
+    "violet",
     "smooth",
-    "coelhiN"
+    "coelhiN",
+    "coelho"
   ],
   "contributes": {
     "themes": [
@@ -30,6 +32,11 @@
         "label": "coelhiN-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/coelhiN-theme-dark-theme.json"
+      },
+      {
+        "label": "coelhiN-violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coelhiN-theme-violet-theme.json"
       }
     ]
   }

@@ -303,7 +303,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#F9936B",
+        "foreground": "#ffbca2",
         "fontStyle": "italic"
       }
     },
