@@ -1,5 +1,5 @@
 {
-  "name": "coelhiN-smooth",
+  "name": "coelhiN-Smooth",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -275,7 +275,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#7E9CC3"
+        "foreground": "#8d81ff"
       }
     },
     {
@@ -283,7 +283,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#b3ffc5"
+        "foreground": "#9BC47B"
       }
     },
     {
@@ -294,7 +294,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#4B8FFF"
+        "foreground": "#ee6071"
       }
     },
     {
@@ -303,7 +303,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#ffbca2",
+        "foreground": "#9BC47B",
         "fontStyle": "italic"
       }
     },
@@ -333,7 +333,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#619BD5"
+        "foreground": "#76D9EF"
       }
     },
     {
@@ -425,7 +425,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#D6AD62"
+        "foreground": "#C78344"
       }
     },
     {
@@ -459,7 +459,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#fc6767"
+        "foreground": "#CA8646"
       }
     },
     {
@@ -488,7 +488,7 @@
         "variable.argument"
       ],
       "settings": {
-        "foreground": "#9E7AFC"
+        "foreground": "#FBC76E"
       }
     },
     {
@@ -496,7 +496,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#6788B5"
+        "foreground": "#CACCCC"
       }
     },
     {
@@ -504,7 +504,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#9AC57B"
+        "foreground": "#E4DD77"
       }
     },
     {
@@ -542,7 +542,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#93CDEE"
+        "foreground": "#cecece"
       }
     },
     {
@@ -550,7 +550,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#c7d2fe"
+        "foreground": "#cecece"
       }
     },
     {
@@ -561,7 +561,7 @@
         "entity.other.inherited-class"
       ],
       "settings": { 
-        "foreground": "#ECE63B"
+        "foreground": "#76C3FF"
       }
     }
   ]

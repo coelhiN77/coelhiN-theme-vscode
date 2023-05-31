@@ -1,8 +1,8 @@
 {
   "name": "coelhiN-theme",
   "displayName": "coelhiN Theme",
-  "description": "Improve your productivity and enjoy an enhanced experience with a personalized theme",
-  "version": "0.0.1",
+  "description": "coelhiN Theme for VS Code",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,26 +15,26 @@
   "keywords": [
     "vscode",
     "theme",
+    "smooth",
     "dark",
     "violet",
-    "smooth",
     "coelhiN",
     "coelho"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "coelhiN-smooth",
+        "label": "coelhiN-Smooth",
         "uiTheme": "vs-dark",
         "path": "./themes/coelhiN-theme-color-theme.json"
       },
       {
-        "label": "coelhiN-dark",
+        "label": "coelhiN-Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/coelhiN-theme-dark-theme.json"
       },
       {
-        "label": "coelhiN-violet",
+        "label": "coelhiN-Violet",
         "uiTheme": "vs-dark",
         "path": "./themes/coelhiN-theme-violet-theme.json"
       }

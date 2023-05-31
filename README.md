@@ -1,17 +1,15 @@
 # coelhiN Theme (VS Code)
 
-Boost your productivity and level up your coding experience with a theme that reflects your unique style. Get ready to customize your coding environment and make it truly yours.
-
 [Download](https://marketplace.visualstudio.com/items?itemName=coelhiN.coelhiN-theme) now and embark on a journey of coding bliss with our personalized theme.
 
 ## Screenshot
-**◦ coelhiN Smooth**
+**◦ coelhiN Smooth**   (Last update: 31/05/23)
 ![coelhiN Smooth Theme](assets/screenshot1.png)
 
-**◦ coelhiN Dark**
+**◦ coelhiN Dark**   (Last update: 28/05/23)
 ![coelhiN Dark Theme](assets/screenshot2.png)
 
-**◦ coelhiN Violet**
+**◦ coelhiN Violet**   (Last update: 26/05/23)
 ![coelhiN Violet Theme](assets/screenshot3.png)
 
 
